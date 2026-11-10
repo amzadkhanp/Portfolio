@@ -10,6 +10,8 @@ https://amzadkhanp.github.io/Portfolio/
 
 ## Enable deployment (one-time setup)
 
+GitHub Pages is configured to use GitHub Actions. The deployment workflow publishes the site on pushes to `main`.
+
 1. Open this repository's **Settings**.
 2. Select **Pages** in the left navigation.
 3. Under **Build and deployment**, set **Source** to **GitHub Actions**.
